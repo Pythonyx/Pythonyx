@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pythonyx
-- 👀 I’m interested in programming and music
+- 👀 I’m interested in programming of all kind
 - 🌱 I’m currently learning Python and C#
 
 
